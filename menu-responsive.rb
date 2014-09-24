@@ -1,3 +1,4 @@
+http://www.tutorialrepublic.com/codelab.php?topic=bootstrap&file=responsive-layout
 <!DOCTYPE html>
 <html lang="en">
 <head>
