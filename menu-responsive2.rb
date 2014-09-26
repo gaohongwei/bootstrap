@@ -62,5 +62,6 @@
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container-fluid -->
 </nav>
+http://getbootstrap.com/components/#navbar
 </body>
 </html>  
